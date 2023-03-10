@@ -1,0 +1,1 @@
+su betty - to rpint current user name
